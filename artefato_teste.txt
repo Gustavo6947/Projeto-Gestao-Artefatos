@@ -1,0 +1,11 @@
+Artefato de Teste para Projeto de Software  
+Data de Criação: [19/02/2025]  
+Autor: [Gustavo de Almeida Cordeiro]  
+
+Objetivo:  
+Este arquivo serve como exemplo para demonstrar a inserção de um artefato em um repositório de gerenciamento de configuração.  
+
+Conteúdo de teste:  
+1. Gerenciamento de artefatos de projeto.  
+2. Controle de versão e colaboração.  
+3. Prática para a disciplina de Projeto de Software.
